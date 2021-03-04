@@ -1,0 +1,13 @@
+h1{
+    margin: 0;
+    padding: .25em;
+}
+body {
+    font-family: Arial, Calibri, sans-serif;
+    font-size: 120%;
+    width: 500px;
+    margin: 0 auto;
+    padding: 1em;
+    border: 1px solid navy;
+    color: #1985a1;}
+
